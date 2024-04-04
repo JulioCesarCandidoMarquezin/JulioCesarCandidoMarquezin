@@ -14,7 +14,8 @@ I'm 16 years old. I'm a technology enthusiast and currently studying at the Fede
 - Python
 - Dart
 
-### Technologies
+<details> 
+<summary>Technologies</summary>
 
 #### Java 
 
@@ -45,6 +46,8 @@ I'm 16 years old. I'm a technology enthusiast and currently studying at the Fede
 
 - Flutter
 
+</details> 
+
 ### Experience
 
 Since I became interested in computers, I've been exploring different areas of programming, especially focusing on web and desktop development, with a growing interest in mobile development.
@@ -67,9 +70,10 @@ Tenho 16 anos e sou um entusiasta da tecnologia, atualmente estudando no Institu
 - Python
 - Dart
 
-### Tecnologias
+<details> 
+<summary>Tecnologias</summary>
 
-#### Java
+#### Java 
 
 - JavaFX
 - JPA
@@ -97,6 +101,8 @@ Tenho 16 anos e sou um entusiasta da tecnologia, atualmente estudando no Institu
 #### Dart
 
 - Flutter
+
+</details> 
 
 ### Experiência
 
