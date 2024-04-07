@@ -19,6 +19,7 @@ I'm 16 years old. I'm a technology enthusiast and currently studying at the Fede
 
 #### Java 
 
+- Maven
 - JavaFX
 - JPA
 - Spring Boot
@@ -75,6 +76,7 @@ Tenho 16 anos e sou um entusiasta da tecnologia, atualmente estudando no Institu
 
 #### Java 
 
+- Maven
 - JavaFX
 - JPA
 - Spring Boot
