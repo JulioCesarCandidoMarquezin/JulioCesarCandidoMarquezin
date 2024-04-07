@@ -21,6 +21,7 @@ I'm 16 years old. I'm a technology enthusiast and currently studying at the Fede
 
 - Maven
 - JavaFX
+- JBDC
 - JPA
 - Spring Boot
 
@@ -29,6 +30,7 @@ I'm 16 years old. I'm a technology enthusiast and currently studying at the Fede
 - React
 - React Native
 - NodeJs
+- Express
 - Fastify
 
 #### PHP
@@ -78,6 +80,7 @@ Tenho 16 anos e sou um entusiasta da tecnologia, atualmente estudando no Institu
 
 - Maven
 - JavaFX
+- JBDC
 - JPA
 - Spring Boot
 
@@ -86,6 +89,7 @@ Tenho 16 anos e sou um entusiasta da tecnologia, atualmente estudando no Institu
 - React
 - React Native
 - NodeJs
+- Express
 - Fastify
 
 #### PHP
