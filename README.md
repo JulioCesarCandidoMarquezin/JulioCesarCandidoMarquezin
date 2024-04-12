@@ -1,6 +1,6 @@
 # Júlio César Cândido Marquezin
 
-## English resume
+## English
 
 ### About me
 
@@ -59,7 +59,7 @@ Since I became interested in computers, I've been exploring different areas of p
 
 I'm excited to expand my knowledge into mobile development, exploring technologies like Flutter and React Native to create mobile applications. Besides programming, I have a strong interest in learning new technologies and am always seeking challenges that allow me to grow and improve my skills.
 
-## Resumo em Português
+## Português
 
 ### Sobre Mim
 
